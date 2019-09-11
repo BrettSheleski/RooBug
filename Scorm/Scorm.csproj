@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Sheleski.Roobug.Scorm</RootNamespace>
+    <AssemblyName>Sheleski.Roobug.Scorm</AssemblyName>
+  </PropertyGroup>
+
+</Project>
